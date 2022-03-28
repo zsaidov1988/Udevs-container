@@ -13,6 +13,10 @@ app.get("/products", (req, res) => {
       productId: "102",
       price: 200,
     },
+    {
+      productId: "103",
+      price: 500,
+    },
   ]);
 });
 
